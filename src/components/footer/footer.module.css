@@ -1,0 +1,19 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #e07c02;
+    height: 50px;
+    font-size: 14px;
+}
+
+.socialNetworks {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin: 20px;
+}
+
+.icon {
+    cursor: pointer;
+}

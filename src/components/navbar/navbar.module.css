@@ -1,0 +1,13 @@
+.container {
+    background-color: orange;
+    display: flex;
+    height: 100px;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.links {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+}
