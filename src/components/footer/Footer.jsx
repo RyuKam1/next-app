@@ -13,6 +13,7 @@ function Footer() {
           <Image src="/3.png" className={styles.icon} width={20} height={20} alt='twitter'/>
           <Image src="/4.png" className={styles.icon} width={20} height={20} alt='youtube'/>
         </div>
+        {/* bai */}
     </div>
   )
 }
