@@ -5,7 +5,6 @@ import Image from "next/image"
 function Footer() {
   return (
     <div className={styles.container}>
-      {/* hai */}
         <div>@all rights reserved</div>
         <div className={styles.socialNetworks}>
           <Image src="/1.png" className={styles.icon} width={20} height={20} alt='facebook'/>
@@ -13,7 +12,6 @@ function Footer() {
           <Image src="/3.png" className={styles.icon} width={20} height={20} alt='twitter'/>
           <Image src="/4.png" className={styles.icon} width={20} height={20} alt='youtube'/>
         </div>
-        {/* bai */}
     </div>
   )
 }
